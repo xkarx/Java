@@ -1,0 +1,3 @@
+EdiTextor 
+
+A text editor created using Java...
